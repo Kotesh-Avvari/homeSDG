@@ -1,4 +1,5 @@
 **#HomeSDG – A Web Platform for Sustainable Development Goals**
+
 HomeSDG is a responsive and interactive web application designed to promote awareness and engagement with the United Nations Sustainable Development Goals (SDGs). Built using HTML5, CSS3, and JavaScript, this project aims to provide an intuitive and visually appealing platform to educate users about sustainability efforts.
 
 🔹 Features
